@@ -6,10 +6,9 @@
         "song":"",
         "year":"",
         "composer":"",
-        "lyricist":"",        
-        "orig_singer":[],
-        "qfr_singer":[],
-        "musicians":[],
+        "lyricist":"",  
+        "originals":[],
+        "cover_artists":[],      
         "episode_url":"",
         "song_url":""
     }
